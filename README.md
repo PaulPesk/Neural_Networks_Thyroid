@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the classification of thyroid disease using neural networks. It includes implementations in both MATLAB and Python (using several archtiectures). The goal is to analyze and classify thyroid deseases based on medical data using different models, in order to fined the most effective one.
+This project focuses on the classification of thyroid disease using neural networks. It includes implementations in both MATLAB and Python (using several archtiectures). The goal is to analyze and classify thyroid deseases based on medical data using different models, in order to find the most effective one.
 
 ## Features:
 
