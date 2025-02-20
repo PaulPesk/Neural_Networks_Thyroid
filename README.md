@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project focuses on the classification of thyroid disease using neural networks. It includes implementations in both MATLAB and Python (using Convolutional Neural Networks - CNNs). The goal is to analyze and classify thyroid function based on medical data.
+This project focuses on the classification of thyroid disease using neural networks. It includes implementations in both MATLAB and Python (using several archtiectures). The goal is to analyze and classify thyroid function based on medical data while comparing the different model.
 
 ## Features:
 
-Implementation of a Feedforward Neural Network in MATLAB.
+Implementation of a Feed-Forward Neural Network in MATLAB.
 
-A CNN model implemented in Python for thyroid classification.
+A Feed-Forward, a Convolutional, a Recurrent, and a Radial Basis Function Neural Network implemented in Python for thyroid classification.
 
 Preprocessed thyroid dataset for training and evaluation.
 
