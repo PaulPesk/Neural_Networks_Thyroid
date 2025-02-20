@@ -1,10 +1,10 @@
-Neural Networks for Thyroid Disease Classification
+#Neural Networks for Thyroid Disease Classification
 
-Overview
+##Overview
 
 This project focuses on the classification of thyroid disease using neural networks. It includes implementations in both MATLAB and Python (using Convolutional Neural Networks - CNNs). The goal is to analyze and classify thyroid function based on medical data.
 
-Features:
+##Features:
 
 Implementation of a Feedforward Neural Network in MATLAB.
 
@@ -14,7 +14,7 @@ Preprocessed thyroid dataset for training and evaluation.
 
 Documentation and scripts for data handling and model training.
 
-Dataset Information
+###Dataset Information
 
 The project uses a thyroid dataset containing medical parameters related to thyroid function. The dataset files included are:
 
